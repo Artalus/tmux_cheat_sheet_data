@@ -449,6 +449,28 @@
     ]
   },
   {
+    "desc": "Set even vertical layout (equal size columns)",
+    "cat": "Panes",
+    "shell": [],
+    "tmuxcmd": [
+      "select-layout even-vertical"
+    ],
+    "shortcut": [
+      "<span class=\"prefix\"><kbd>Ctrl</kbd> + <kbd>b</kbd> </span> <kbd>Alt</kbd> + <kbd>1</kbd>"
+    ]
+  },
+  {
+    "desc": "Set even horizontal layout (equal size lines)",
+    "cat": "Panes",
+    "shell": [],
+    "tmuxcmd": [
+      "select-layout even-horizontal"
+    ],
+    "shortcut": [
+      "<span class=\"prefix\"><kbd>Ctrl</kbd> + <kbd>b</kbd> </span> <kbd>Alt</kbd> + <kbd>2</kbd>"
+    ]
+  },
+  {
     "desc": "use vi keys in buffer",
     "cat": "Copy Mode",
     "shell": [],
